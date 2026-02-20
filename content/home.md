@@ -7,17 +7,18 @@ Title = ""
 
 This is **Randall C. O'Reilly**'s personal website.
 
-## Professional
+## Professional science
 
 * [[Biography]]
 * [[CV]]
 * [[Publications]]
 * [[Software]]
 * [CCNLab](https://ccnlab.org): legacy lab website, no longer updated.
+* [[Trainees]] -- read this if interested in working with me.
 
-## Personal
+## Recreational science
 
-* [Grey Space](grey-space.org): Philosophy
+* [Grey Space](https://grey-space.org): Philosophy
 
-* [Wave Reality](wavereality.org): Exploration of computational models of fundamental physics, based in the principle that the quantum wave function is _real_.
+* [Wave Reality](https://wavereality.org): Exploration of computational models of fundamental physics, based in the principle that the quantum wave function is _real_.
 

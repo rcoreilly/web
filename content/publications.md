@@ -11,9 +11,11 @@ bibfile = "ccnlab.json"
 * [arXiv](https://arxiv.org/a/oreilly_r_1)
 * [ORCID](https://orcid.org/0000-0003-0322-4600)
 
-## Integrated Web Docs and Software
+## Integrated Web Docs and Simulations
 
-* [compcogneuro.org](https://compcogneuro.org): Computational Cognitive Neuroscience models and theories of brain function.
+* [compcogneuro.org](https://compcogneuro.org): Computational Cognitive Neuroscience models and theories of brain function. **This is the primary source for all of my current work, including specific papers.**
+
+Note that my current employment with the [Astera Institute](https://astera.org) prevents me from publishing in traditional scientific journals per the [publication policy](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough). Thus, the above integrated website represents my attempt to develop a novel, open, advanced publishing medium that provides direct interactive access to the computer simulations at the core of my research, running on the user's own GPU through [WebGPU](https://en.wikipedia.org/wiki/WebGPU) via [Cogent Core](https://cogentcore.org).
 
 ## Copyright Notice
 
