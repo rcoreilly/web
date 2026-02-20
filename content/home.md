@@ -13,6 +13,7 @@ This is **Randall C. O'Reilly**'s personal website.
 * [[CV]]
 * [[Publications]]
 * [[Software]]
+* [CCNLab](https://ccnlab.org): legacy lab website, no longer updated.
 
 ## Personal
 
