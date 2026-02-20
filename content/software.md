@@ -46,4 +46,8 @@ The default for most settings should be fine. Except these key ones:
 
 * `Enable caching`: yes
 
+### Updating to zotero 8
+
+If you have an existing zotero 7 installation with BetterBibTeX installed, you may get a prompt about moving the citation keys over to the new `Citation key` field -- this has already been done so it should not be necessary, but it also should not matter to have it do this again, or not. This prompt recurring probably means that someone has accessed the database without updating to zotero 8.
+
 
