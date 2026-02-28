@@ -103,6 +103,7 @@ www: https://randalloreilly.com/cv
 ## Publications
 
 * Google Scholar profile: https://scholar.google.com/citations?user=tZpKKm4AAAAJ
+* Zotero Profile with Paper PDFs: https://www.zotero.org/rcoreilly
 * ResearchGate Page: https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf
 * arXiv public author id: https://arxiv.org/a/oreilly_r_1
 * ORCID ID:  https://orcid.org/0000-0003-0322-4600 

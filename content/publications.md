@@ -6,6 +6,7 @@ bibfile = "ccnlab.json"
 
 * [[CV]]
 * [Google Scholar Profile](https://scholar.google.com/citations?user=tZpKKm4AAAAJ)
+* [Zotero Profile with Paper PDFs](https://www.zotero.org/rcoreilly)
 * [Research Gate Profile](https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf)
 * [NCBI NIH Biosketch]( https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/538267/) and [Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/)
 * [arXiv](https://arxiv.org/a/oreilly_r_1)
@@ -16,6 +17,8 @@ bibfile = "ccnlab.json"
 * [compcogneuro.org](https://compcogneuro.org): Computational Cognitive Neuroscience models and theories of brain function. **This is the primary source for all of my current work, including specific papers.**
 
 Note that my current employment with the [Astera Institute](https://astera.org) prevents me from publishing in traditional scientific journals per the [publication policy](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough). Thus, the above integrated website represents my attempt to develop a novel, open, advanced publishing medium that provides direct interactive access to the computer simulations at the core of my research, running on the user's own GPU through [WebGPU](https://en.wikipedia.org/wiki/WebGPU) via [Cogent Core](https://cogentcore.org).
+
+* Online free book: O'Reilly, R.C. (2021). Principles of Psychology and Neuroscience (1st Ed). https://PrinciplesOfPsych.org
 
 ## Copyright Notice
 
