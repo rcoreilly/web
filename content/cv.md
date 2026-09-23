@@ -365,6 +365,8 @@ Note that my current employment with the [Astera Institute](https://astera.org) 
 
 ### Book Chapters
 
+* Hazy, T. E., Frank, M. J., & O'Reilly, R. C. (2023). Computational Neuroscience Models of Working Memory. _Cambridge Handbook of Computational Cognitive Sciences_ (R. Sun, Ed). Cambridge University Press. 
+
 * Liu, X., O’Reilly, R. C., & Ranganath, C. (2021). Effects of retrieval practice on tested and untested information: Cortico-hippocampal interactions and error-driving learning. In Federmeier, K.D. and Sahakyan, L. (Eds) _The Context of Cognition: Emerging Perspectives, Vol 75._ 125-155, Elsevier.
 
 * O’Reilly, R.C. & Hazy, T. E. (2022). Computational Contributions of the Thalamus to Learning and Memory. In: Halassa MM, ed. _The Thalamus._ Cambridge University Press. 416-431.

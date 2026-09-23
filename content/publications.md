@@ -108,6 +108,8 @@ These papers are good choices for learning about research in each of the major c
 <!--- [[@SmucnyHanksLeshEtAl23]] -->
 * Smucny, J., Hanks, T.D., Lesh, T.A., O’Reilly, R.C., & Carter, C.S. (2023). Altered Associations Between Motivated Performance and Frontostriatal Functional Connectivity During Reward Anticipation in Schizophrenia. _Schizophrenia Bulletin, 49,_ 717–725. [PDF](papers/SmucnyHanksLeshEtAl23.pdf) | [URL](https://doi.org/10.1093/schbul/sbac204)
 
+* Hazy, T. E., Frank, M. J., & O'Reilly, R. C. (2023). Computational Neuroscience Models of Working Memory. _Cambridge Handbook of Computational Cognitive Sciences_ (R. Sun, Ed). Cambridge University Press. [PDF](papers/HazyFrankOReilly21.pdf)
+
 ### 2022
 
 <!--- [[@ZhengLiuNishiyamaEtAl22] -->
@@ -132,8 +134,6 @@ These papers are good choices for learning about research in each of the major c
 * McKee, K. L, Crandell, I. C., Chaudhuri, R., & O'Reilly, R. C. (2021 / submitted).  Locally Learned Synaptic Dropout for Complete Bayesian Inference. _arXiv:2111.09780_, [PDF](papers/McKeeCrandellChaudhuriEtAl21) | [URL](https://arxiv.org/abs/2111.09780)
 
 * O'Reilly, R. C. & Hazy, T. E. (2021 / in press). Computational Contributions of the Thalamus to Learning and Memory. _The Thalamus_ (M. Halassa, Ed). [PDF](papers/OReillyHazy21.pdf)
-
-* Hazy, T. E., Frank, M. J., & O'Reilly, R. C. (2021 / in press). Computational Neuroscientific Models of Working Memory. _Cambridge Handbook of Computational Cognitive Sciences_ (R. Sun, Ed).  [PDF](papers/HazyFrankOReilly21.pdf)
 
 * O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. _Journal of Cognitive Neuroscience, 33(6),_ 1158–1196. [PDF](papers/OReillyRussinZolfagharEtAl21.pdf) | [URL](https://doi.org/10.1162/jocn_a_01708)
 
