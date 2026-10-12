@@ -3,7 +3,7 @@ module github.com/rcoreilly/web
 go 1.25.6
 
 require (
-	cogentcore.org/core v0.3.46-0.20261012130458-6a47e50245d9
+	cogentcore.org/core v0.3.46-0.20261012133558-0a62857f6616
 	cogentcore.org/lab v0.1.21
 )
 
