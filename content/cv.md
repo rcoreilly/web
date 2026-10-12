@@ -699,9 +699,12 @@ Note that my current employment with the [Astera Institute](https://astera.org) 
 
 #### Colloquia and Other Invited Talks
 
-* A simulated rat pauses to contemplate its future, Washington University St. Louis, St. Louis, MO, February 2025.
-* A simulated rat contemplates its future, Stanford University, Palo Alto, CA, January, 2024.
-* Predictive Learning of the Structure of Space through Navigation, UC Berkeley, Berkeley, CA, October, 2021.
+* Max Planck Institute for Biological Cybernetics, University of Tübingen, Germany, October 2026.
+* Universität Osnabrück, Osnabrück, Germany, May 2026.
+* Donders Lecture, Radboud University, Nijmegen, Netherlands, November 2026.
+* Washington University St. Louis, St. Louis, MO, February 2025.
+* Stanford University, Palo Alto, CA, January, 2024.
+* UC Berkeley, Berkeley, CA, October, 2021.
 * The Learning Salon, Online https://www.learningsalon.ai, March, 2021.
 * Department of Cognitive Science, UC Merced, Merced, CA, February, 2020.
 * Mathematics of Data and Decisions Seminar, UC Davis, Davis, CA, February, 2020.
