@@ -1,5 +1,5 @@
 +++
-Name = "AI Software: Everyone gets their own toothbrush!"
+Name = "2026-Oct-21: AI Software: Everyone gets their own toothbrush!"
 Date = "2026-10-21"
 Categories = ["Blog"]
 +++
