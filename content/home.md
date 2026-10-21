@@ -22,3 +22,7 @@ This is **Randall C. O'Reilly**'s personal website.
 
 * [Wave Reality](https://wavereality.org): Exploration of computational models of fundamental physics, based in the principle that the quantum wave function is _real_.
 
+## Blog
+
+* [[Blog]]
+

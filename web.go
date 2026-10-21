@@ -11,9 +11,7 @@ import (
 	"cogentcore.org/core/core"
 	"cogentcore.org/core/icons"
 	"cogentcore.org/core/text/csl"
-	_ "cogentcore.org/core/text/tex" // include this to get math
 	"cogentcore.org/core/tree"
-	_ "cogentcore.org/lab/yaegilab"
 )
 
 // NOTE: you must make a symbolic link to the zotero CCNLab CSL file as ccnlab.json
